@@ -22,6 +22,9 @@
 
 ## Screenshots
 
-![HomeScreen Dark](https://github.com/MC-CLINT/rn-assignment5-11317254/commit/eeb77d85314f984c7f032b94972910cea082c843#diff-fb269f2dae65f2c08920ac134930f0cb1487e05cc373db23d9ff661bbe51f0f5)
+![HomeScreen Light](MyApp/assets/ScreenShots/HomeScreenLightTheme.jpg)
+![HomeScreen Dark](MyApp/assets/ScreenShots/HomeScreenDarkTheme.jpg)
 
-![Settings Screen Light](https://github.com/MC-CLINT/rn-assignment5-11317254/commit/eeb77d85314f984c7f032b94972910cea082c843#diff-6bf71bfb36b487b116e20e112a7f2e977ae819b4cf7168548748b5231427661d)
+![Settings Screen Light](MyApp/assets/ScreenShots/SettingsScreenLighttheme.jpg)
+![Settings Screen Dark](MyApp/assets/ScreenShots/SettingsDarktheme.jpg)
+
